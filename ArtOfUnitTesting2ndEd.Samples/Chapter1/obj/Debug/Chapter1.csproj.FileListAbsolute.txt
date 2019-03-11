@@ -17,3 +17,9 @@ D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.dll
 D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.pdb
 D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.dll
 D:\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.pdb
+D:\Source\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.dll
+D:\Source\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\bin\Debug\Chapter1.pdb
+D:\Source\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.csprojAssemblyReference.cache
+D:\Source\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.csproj.CoreCompileInputs.cache
+D:\Source\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.dll
+D:\Source\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1\obj\Debug\Chapter1.pdb
